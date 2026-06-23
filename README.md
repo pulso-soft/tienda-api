@@ -1,16 +1,16 @@
-# tienda-api
+# claude-code-tienda-api
 
 Proyecto de práctica del curso **Claude Code** (Pulso Soft).
 Es el punto de partida que usás en la Clase 1.3 — todavía no tiene el endpoint `/health`
 ni las validaciones completas que vas a ir agregando a lo largo del curso.
 
-Repo: https://github.com/pulso-soft/tienda-api
+Repo: https://github.com/pulso-soft/claude-code-tienda-api
 
 ## Levantar el proyecto
 
 ```bash
-git clone https://github.com/pulso-soft/tienda-api.git
-cd tienda-api
+git clone https://github.com/pulso-soft/claude-code-tienda-api.git
+cd claude-code-tienda-api
 npm install
 npm run dev
 ```
